@@ -1,0 +1,11 @@
+
+body{
+  min-height: 100vh;
+  background-color: #ffffff;
+
+}
+
+/** three ways to add (SLDS)
+1.using cdn
+2. By copying css file directory
+3. By installing the package througgh npm and copy that file to asset**/

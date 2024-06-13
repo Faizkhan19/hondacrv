@@ -1,0 +1,27 @@
+.color_circle{
+  height:50px;
+  width:50px;
+  display: block;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.ignite_red{
+  background-color: #FF0000;
+}
+.sporty_blue{
+  background-color: mediumblue;
+}
+.crystal_black{
+  background-color: black;
+}
+.platinum_white{
+  background-color:lavenderblush;
+}
+input[type="radio"]:checked+label{
+  border: 5px solid #ffc200;
+
+}
+input[type="radio"]:checked+label+div{
+ color: #ffc200 ;
+  
+}
